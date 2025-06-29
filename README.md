@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p> Collection Old or damaged computing devices like desktops, laptops, tablets, printers, and servers are collected from homes, offices, schools, etc.
+Collection can be done through e-waste bins, special drives, drop-off centers, or pick-up services.
+This step ensures electronic waste does not end up in landfills.
+Collection programs can be run by governments, NGOs, or private companies.
+Some companies offer exchange or cashback offers to encourage returns.
+Proper collection reduces illegal dumping and promotes responsible recycling
+</p>
+</body>
+</html>
